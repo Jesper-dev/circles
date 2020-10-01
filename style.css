@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(224, 255, 255);
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    border: 1px solid black;
+    background-color: black;
+    width: 50%;
+    height: 50%;
+    margin: 0px auto;
+    
+}
+
+.circle{
+    width: 20%;
+    height: 20%;
+    border: 1px solid black;
+    border-radius: 50%;
+    background-color: white;
+    float: left;
+    padding-bottom: 20%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+.black{
+    background-color: black;
+}
+.crimson{
+    background-color: crimson;
+}
+.blue{
+    background-color: blue;
+}
+
+button{
+    padding: 10px;
+    width: 40px;
+    margin: 10px;
+    border: none;
+}
